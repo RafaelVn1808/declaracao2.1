@@ -23,5 +23,5 @@ A ideia surgiu a partir da minha experiência de **4 anos** na função, onde fr
 
 Contribuições são bem-vindas!
 
-- **LinkedIn**: [Seu Perfil](www.linkedin.com/in/rafael-almeida-ba4a92314)
-- **E-mail**: [seuemail@example.com](mailto:rafaelalmeida1808@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/rafael-almeida-ba4a92314](www.linkedin.com/in/rafael-almeida-ba4a92314)
+- **E-mail**: [mailto:rafaelalmeida1808@gmail.com](mailto:rafaelalmeida1808@gmail.com)
